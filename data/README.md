@@ -1,6 +1,6 @@
 ## Data Provision
 
-We provide the `source` and `target` data, collected from the [MediaEval15-16 datasets](http://www.multimediaeval.org/),you can download images data from it. For detailed data descriptions and process procedure, please refer to our paper.
+We provide the `source` and `target` data, collected from the [MediaEval15-16 datasets](http://www.multimediaeval.org/), you can download images data from it. For detailed data descriptions and process procedure, please refer to our paper.
 If you want to process the data from scratch, you can do so via the following link:
 https://github.com/MKLab-ITI/image-verification-corpus
 and the citation provided is:
